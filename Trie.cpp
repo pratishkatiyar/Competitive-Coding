@@ -68,3 +68,4 @@ int maxxor(int x)
 
 //Problem 7: https://www.codechef.com/problems/XRQRS
 //Solution 7: http://p.ip.fi/i8dl (Persistent Trie + Recursive Insert, MinXor, MaxXor, Kth Largest in interval, <=X in interval)
+//
